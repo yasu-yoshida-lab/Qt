@@ -1,0 +1,4 @@
+/Users/yasu-yoshida/GitHub/Qt/05/build-Qt_Designer-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Qt_Designer.dir
+/Users/yasu-yoshida/GitHub/Qt/05/build-Qt_Designer-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/yasu-yoshida/GitHub/Qt/05/build-Qt_Designer-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/yasu-yoshida/GitHub/Qt/05/build-Qt_Designer-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Qt_Designer_autogen.dir
