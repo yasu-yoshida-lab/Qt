@@ -11,7 +11,7 @@ SecondDialog::SecondDialog(QWidget* parent) : QDialog(parent)
 {
     okButton = new QPushButton(tr("&OK"));
     cancelButton = new QPushButton(tr("&Cancel"));
-    editor = new QLineEdit;
+
 
     QHBoxLayout* layout = new QHBoxLayout;
     layout->addWidget(editor);

@@ -276,18 +276,6 @@ CMakeFiles/Dialog.dir/Dialog_autogen/mocs_compilation.cpp.o
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qsizepolicy.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qcursor.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qkeysequence.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QPushButton
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qpushbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qabstractbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qicon.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLabel
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlabel.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qframe.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QHBoxLayout
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qboxlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayoutitem.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qgridlayout.h
  /Users/yasu-yoshida/GitHub/Qt/04/build-Dialog-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Dialog_autogen/EWIEGA46WW/moc_SecondDialog.cpp
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/SecondDialog.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/QtGui
@@ -510,6 +498,7 @@ CMakeFiles/Dialog.dir/Dialog_autogen/mocs_compilation.cpp.o
  /usr/local/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers/QRect
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qsurface.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qsurfaceformat.h
+ /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qicon.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qbitmap.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qclipboard.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qcolorspace.h
@@ -597,9 +586,6 @@ CMakeFiles/Dialog.dir/Dialog_autogen/mocs_compilation.cpp.o
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qtexttable.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qvalidator.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qtguiversion.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLineEdit
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlineedit.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers/QString
  /Users/yasu-yoshida/GitHub/Qt/04/build-Dialog-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Dialog_autogen/EWIEGA46WW/moc_mainwindow.cpp
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/mainwindow.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QMainWindow
@@ -1181,28 +1167,14 @@ CMakeFiles/Dialog.dir/MainDialog.cpp.o
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qtexttable.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qvalidator.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtGui.framework/Headers/qtguiversion.h
+ /Users/yasu-yoshida/GitHub/Qt/04/Dialog/MainDialog.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QDialog
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qdialog.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qtwidgets-config.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qwidget.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qsizepolicy.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QPushButton
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qpushbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qabstractbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLabel
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlabel.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qframe.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QHBoxLayout
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qboxlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayoutitem.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qgridlayout.h
- /Users/yasu-yoshida/GitHub/Qt/04/Dialog/MainDialog.h
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/SecondDialog.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLineEdit
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlineedit.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers/QString
 
 CMakeFiles/Dialog.dir/SecondDialog.cpp.o
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/SecondDialog.cpp
@@ -2389,21 +2361,7 @@ CMakeFiles/Dialog.dir/main.cpp.o
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/MainDialog.h
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QDialog
  /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qdialog.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QPushButton
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qpushbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qabstractbutton.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLabel
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlabel.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qframe.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QHBoxLayout
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qboxlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayout.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlayoutitem.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qgridlayout.h
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/SecondDialog.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/QLineEdit
- /usr/local/Cellar/qt@5/5.15.3/lib/QtWidgets.framework/Headers/qlineedit.h
- /usr/local/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers/QString
 
 CMakeFiles/Dialog.dir/mainwindow.cpp.o
  /Users/yasu-yoshida/GitHub/Qt/04/Dialog/mainwindow.cpp
