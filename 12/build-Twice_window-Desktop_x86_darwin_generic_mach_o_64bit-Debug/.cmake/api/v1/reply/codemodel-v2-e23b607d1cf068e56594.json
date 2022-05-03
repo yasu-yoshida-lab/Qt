@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Twice_window",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Twice_window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Twice_window-Debug-ec5f22151330c8f930c9.json",
+					"name" : "Twice_window",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Twice_window_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Twice_window_autogen-Debug-49988b4955a65c42b023.json",
+					"name" : "Twice_window_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yasu-yoshida/GitHub/Qt/12/build-Twice_window-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/yasu-yoshida/GitHub/Qt/12/Twice_window"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
