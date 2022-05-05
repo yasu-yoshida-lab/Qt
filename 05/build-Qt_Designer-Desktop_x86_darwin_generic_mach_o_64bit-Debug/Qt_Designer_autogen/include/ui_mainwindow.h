@@ -79,10 +79,10 @@ public:
 
         retranslateUi(MainWindow);
         QObject::connect(pushButton, SIGNAL(clicked()), pushButton, SLOT(click()));
-        QObject::connect(pushButton_2, SIGNAL(clicked()), pushButton_2, SLOT(close()));
         QObject::connect(lineEdit, SIGNAL(textChanged(QString)), label, SLOT(setText(QString)));
         QObject::connect(lineEdit, SIGNAL(textChanged(QString)), menubar, SLOT(setWindowTitle(QString)));
         QObject::connect(pushButton, SIGNAL(clicked()), pushButton, SLOT(click()));
+        QObject::connect(pushButton_2, SIGNAL(released()), MainWindow, SLOT(close()));
 
         QMetaObject::connectSlotsByName(MainWindow);
     } // setupUi
